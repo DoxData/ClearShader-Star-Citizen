@@ -1,4 +1,4 @@
-# ClearShader_SC
+# ClearShader Star Citizen
 ![1](https://github.com/user-attachments/assets/fe97b44b-737a-4c81-be9d-7018af94ffd1)                   ![2](https://github.com/user-attachments/assets/b5f5e00a-7757-41e7-ae02-1d58859fa6bc)
 
 

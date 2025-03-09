@@ -27,7 +27,7 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 
    #DESCARGAR: https://nlink.at/Descargar_ClearShader_StarCitizen
   
-     ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tenerlo instalado NET 9.0 en el PC 
+     ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tener instalado NET 9.0 en el PC 
                Descargar .NET 9.0: https://dotnet.microsoft.com/es-es/download/dotnet/9.0
 
 ## Description

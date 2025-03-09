@@ -28,6 +28,7 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
    #DESCARGAR: https://nlink.at/Descargar_ClearShader_StarCitizen
   
      ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tener instalado NET 9.0 en el PC
+
    NET 9.0 es una versión reciente del marco de desarrollo .NET de Microsoft, lanzada en febrero de 2025. Este marco es una plataforma de código abierto que permite desarrollar aplicaciones para diferentes sistemas operativos como Windows, macOS y Linux. Algunas de las características destacadas de .NET 9.0 incluyen:
 
 Mejoras en el rendimiento: Se han optimizado aspectos como la recolección de basura y la generación de código para aplicaciones más rápidas y eficientes.
@@ -67,6 +68,7 @@ ClearShader_SC is a WPF application designed to manage and delete shaders from t
    #DOWNLOAD: https://nlink.at/Descargar_ClearShader_StarCitizen
    
      ATTENTION, the application is created with NET 9.0 from Microsoft and it is necessary to have NET 9.0 installed on your PC
+
    NET 9.0 is a recent version of Microsoft's .NET development framework, released in February 2025. This framework is an open-source platform that allows you to develop applications for different operating systems such as Windows, macOS, and Linux. Some of the notable features of .NET 9.0 include:
 
 Performance improvements: Aspects such as garbage collection and code generation have been optimized for faster and more efficient applications.

@@ -27,7 +27,18 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 
    #DESCARGAR: https://nlink.at/Descargar_ClearShader_StarCitizen
   
-     ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tener instalado NET 9.0 en el PC 
+     ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tener instalado NET 9.0 en el PC
+   NET 9.0 es una versión reciente del marco de desarrollo .NET de Microsoft, lanzada en febrero de 2025. Este marco es una plataforma de código abierto que permite desarrollar aplicaciones para diferentes sistemas operativos como Windows, macOS y Linux. Algunas de las características destacadas de .NET 9.0 incluyen:
+
+Mejoras en el rendimiento: Se han optimizado aspectos como la recolección de basura y la generación de código para aplicaciones más rápidas y eficientes.
+
+Compatibilidad con aplicaciones nativas en la nube: .NET 9.0 está diseñado para facilitar el desarrollo de aplicaciones modernas que aprovechen al máximo los entornos en la nube.
+
+Nuevas características en bibliotecas: Por ejemplo, mejoras en System.Text.Json para trabajar con JSON y nuevas funcionalidades en LINQ.
+
+Compatibilidad con lenguajes actualizados: Soporte para C# 13.0, F# 9.0 y Visual Basic 17.13.
+
+Puedes encontrar más detalles sobre esta versión en la documentación oficial. ¿Estás pensando en usarlo para algún proyecto? 😊
                Descargar .NET 9.0: https://dotnet.microsoft.com/es-es/download/dotnet/9.0
 
 ## Description
@@ -56,4 +67,15 @@ ClearShader_SC is a WPF application designed to manage and delete shaders from t
    #DOWNLOAD: https://nlink.at/Descargar_ClearShader_StarCitizen
    
      ATTENTION, the application is created with NET 9.0 from Microsoft and it is necessary to have NET 9.0 installed on your PC
+   NET 9.0 is a recent version of Microsoft's .NET development framework, released in February 2025. This framework is an open-source platform that allows you to develop applications for different operating systems such as Windows, macOS, and Linux. Some of the notable features of .NET 9.0 include:
+
+Performance improvements: Aspects such as garbage collection and code generation have been optimized for faster and more efficient applications.
+
+Support for cloud-native applications: .NET 9.0 is designed to make it easier to develop modern applications that take full advantage of cloud environments.
+
+New library features: For example, improvements in System.Text.Json to work with JSON and new functionalities in LINQ.
+
+Support for updated languages: Support for C# 13.0, F# 9.0, and Visual Basic 17.13.
+
+You can find more details about this version in the official documentation. Are you thinking of using it for a project? 😊
                 Download.NET 9.0: https://dotnet.microsoft.com/es-es/download/dotnet/9.0

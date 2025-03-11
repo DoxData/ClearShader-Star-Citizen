@@ -40,6 +40,8 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
    - Si la carpeta de shaders ha sido encontrada, haz clic en el botón "Eliminar".
    - La aplicación eliminará la carpeta de shaders y mostrará un mensaje de confirmación.
 
+#DESCARGAR: https://github.com/DoxData/ClearShader-Star-Citizen/releases/tag/ClearShader-Star-Citizen
+
 ## Description
 
 ClearShader_SC is a WPF application designed to manage and delete shaders from the Star Citizen folder on your PC. The application allows you to search for the Star Citizen shaders folder based on the PC's username and provides a graphical interface to delete the folder if necessary.
@@ -62,4 +64,5 @@ ClearShader_SC is a WPF application designed to manage and delete shaders from t
 2. **Delete Shaders Folder**:
    - If the shaders folder has been found, click the "Delete" button.
    - The application will delete the shaders folder and display a confirmation message.
-
+   - 
+#Download: https://github.com/DoxData/ClearShader-Star-Citizen/releases/tag/ClearShader-Star-Citizen

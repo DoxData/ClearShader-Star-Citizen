@@ -1,5 +1,4 @@
 ﻿using System.IO;
-// No changes needed, the file is already well-structured and functional
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -26,28 +25,43 @@ public partial class MainWindow : Window
         if (Directory.Exists(path))
         {
             starCitizenFolderPath = path;
-            MessageBox.Show("Shaders encontrados", "Información", MessageBoxButton.OK, MessageBoxImage.Information);
+            ShowCustomMessage("Shaders encontrados");
             PopulateTreeView(path);
         }
         else
         {
             starCitizenFolderPath = null;
-            MessageBox.Show("Shaders no encontrados", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            ShowCustomMessage("Shaders no encontrados");
         }
     }
 
     private void EliminarButton_Click(object sender, RoutedEventArgs e)
     {
-        if (starCitizenFolderPath != null && Directory.Exists(starCitizenFolderPath))
+        var confirmDeleteDialog = new ConfirmDeleteDialog();
+        confirmDeleteDialog.Owner = this;
+        confirmDeleteDialog.ShowDialog();
+
+        if (confirmDeleteDialog.IsConfirmed && starCitizenFolderPath != null && Directory.Exists(starCitizenFolderPath))
         {
             Directory.Delete(starCitizenFolderPath, true);
-            MessageBox.Show("Carpeta eliminada", "Información", MessageBoxButton.OK, MessageBoxImage.Information);
+            ShowCustomMessage("Eliminación completada");
             FoldersTreeView.Items.Clear();
+        }
+        else if (!confirmDeleteDialog.IsConfirmed)
+        {
+            ShowCustomMessage("Eliminación cancelada");
         }
         else
         {
-            MessageBox.Show("No se encontró la carpeta para eliminar", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            ShowCustomMessage("No se encontró la carpeta para eliminar");
         }
+    }
+
+    private void ShowCustomMessage(string message)
+    {
+        var customMessageDialog = new CustomMessageDialog(message);
+        customMessageDialog.Owner = this;
+        customMessageDialog.ShowDialog();
     }
 
     private void PopulateTreeView(string path)

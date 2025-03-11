@@ -1,0 +1,6 @@
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\ClearShader SC.exe
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\icon.ico
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\ClearShader SC.dll
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\ClearShader SC.deps.json
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\ClearShader SC.runtimeconfig.json
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\publish\ClearShader SC.pdb

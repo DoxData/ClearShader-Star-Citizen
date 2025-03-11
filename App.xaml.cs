@@ -1,5 +1,5 @@
 ﻿using System.Windows;
-// No changes needed, the file is already well-structured and functional
+
 namespace ClearShader_SC;
 
 // ...existing code...

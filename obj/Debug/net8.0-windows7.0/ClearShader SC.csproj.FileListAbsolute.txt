@@ -1,0 +1,28 @@
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\icon.ico
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\ClearShader SC.exe
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\ClearShader SC.deps.json
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\ClearShader SC.runtimeconfig.json
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\ClearShader SC.dll
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\bin\Debug\net8.0-windows7.0\ClearShader SC.pdb
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ConfirmDeleteDialog.baml
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ConfirmDeleteDialog.g.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC_Content.g.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC_MarkupCompile.cache
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC_MarkupCompile.lref
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\App.baml
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.g.resources
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.AssemblyInfoInputs.cache
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.AssemblyInfo.cs
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.csproj.CoreCompileInputs.cache
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.dll
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\refint\ClearShader SC.dll
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.pdb
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ClearShader SC.genruntimeconfig.cache
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\ref\ClearShader SC.dll
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\CustomMessageDialog.baml
+C:\Users\Sobrino\MisProgramas\ClearShader SC\ClearShader SC\obj\Debug\net8.0-windows7.0\CustomMessageDialog.g.cs

@@ -1,10 +1,9 @@
-
+<<<<<<< HEAD
 # ClearShader Star Citizen
-   ![Captura de pantalla 2025-03-11 121748](https://github.com/user-attachments/assets/848c7f55-9ed6-42a2-a2f9-5e8f00d5ee63) ![Captura de pantalla 2025-03-11 121731](https://github.com/user-attachments/assets/f8be77bf-a803-4d04-92c0-dd4bd5a8825c) 
-   
+![1](https://github.com/user-attachments/assets/fe97b44b-737a-4c81-be9d-7018af94ffd1)                   ![2](https://github.com/user-attachments/assets/b5f5e00a-7757-41e7-ae02-1d58859fa6bc)
 
 
-## Descripción
+## Descripción en Español
 
 ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shaders de la carpeta de Star Citizen en tu PC. La aplicación permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC y proporciona una interfaz gráfica para eliminar dicha carpeta si es necesario.
 
@@ -13,11 +12,25 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 - **Buscar Carpeta de Shaders**: Permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC.
 - **Eliminar Carpeta de Shaders**: Proporciona un botón para eliminar la carpeta de shaders encontrada.
 - **Interfaz Gráfica**: Incluye una interfaz gráfica con botones redondeados y una barra de título personalizada.
+=======
+# ClearShader_SC
+
+## Descripci�n en Espa�ol
+
+ClearShader_SC es una aplicaci�n WPF dise�ada para gestionar y eliminar shaders de la carpeta de Star Citizen en tu PC. La aplicaci�n permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC y proporciona una interfaz gr�fica para eliminar dicha carpeta si es necesario.
+
+### Caracter�sticas
+
+- **Buscar Carpeta de Shaders**: Permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC.
+- **Eliminar Carpeta de Shaders**: Proporciona un bot�n para eliminar la carpeta de shaders encontrada.
+- **Interfaz Gr�fica**: Incluye una interfaz gr�fica con botones redondeados y una barra de t�tulo personalizada.
+>>>>>>> 63174eb (Proyecto ClearShader SC: primera versión)
 
 ### Instrucciones de Uso
 
 1. **Buscar Carpeta de Shaders**:
    - Introduce el nombre de usuario del PC en el campo de texto.
+<<<<<<< HEAD
    - Haz clic en el botón "Buscar".
    - La aplicación buscará la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
    - Si se encuentra la carpeta, se mostrará un mensaje indicando que los shaders han sido encontrados.
@@ -26,25 +39,18 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 2. **Eliminar Carpeta de Shaders**:
    - Si la carpeta de shaders ha sido encontrada, haz clic en el botón "Eliminar".
    - La aplicación eliminará la carpeta de shaders y mostrará un mensaje de confirmación.
+=======
+   - Haz clic en el bot�n "Buscar".
+   - La aplicaci�n buscar� la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
+   - Si se encuentra la carpeta, se mostrar� un mensaje indicando que los shaders han sido encontrados.
+   - Si no se encuentra la carpeta, se mostrar� un mensaje de error.
 
-   #DESCARGAR: https://nlink.at/Descargar_ClearShader_StarCitizen
-  
-     ATENCIÓN, la aplicación está creada con NET 9.0 de Microsoft y es necesario tener instalado NET 9.0 en el PC
+2. **Eliminar Carpeta de Shaders**:
+   - Si la carpeta de shaders ha sido encontrada, haz clic en el bot�n "Eliminar".
+   - La aplicaci�n eliminar� la carpeta de shaders y mostrar� un mensaje de confirmaci�n.
+>>>>>>> 63174eb (Proyecto ClearShader SC: primera versión)
 
-   NET 9.0 es una versión reciente del marco de desarrollo .NET de Microsoft, lanzada en febrero de 2025. Este marco es una plataforma de código abierto que permite desarrollar aplicaciones para diferentes sistemas operativos como Windows, macOS y Linux. Algunas de las características destacadas de .NET 9.0 incluyen:
-
-Mejoras en el rendimiento: Se han optimizado aspectos como la recolección de basura y la generación de código para aplicaciones más rápidas y eficientes.
-
-Compatibilidad con aplicaciones nativas en la nube: .NET 9.0 está diseñado para facilitar el desarrollo de aplicaciones modernas que aprovechen al máximo los entornos en la nube.
-
-Nuevas características en bibliotecas: Por ejemplo, mejoras en System.Text.Json para trabajar con JSON y nuevas funcionalidades en LINQ.
-
-Compatibilidad con lenguajes actualizados: Soporte para C# 13.0, F# 9.0 y Visual Basic 17.13.
-
-Puedes encontrar más detalles sobre esta versión en la documentación oficial. ¿Estás pensando en usarlo para algún proyecto? 😊
-               Descargar .NET 9.0: https://dotnet.microsoft.com/es-es/download/dotnet/9.0
-
-## Description
+## Description in English
 
 ClearShader_SC is a WPF application designed to manage and delete shaders from the Star Citizen folder on your PC. The application allows you to search for the Star Citizen shaders folder based on the PC's username and provides a graphical interface to delete the folder if necessary.
 
@@ -66,20 +72,4 @@ ClearShader_SC is a WPF application designed to manage and delete shaders from t
 2. **Delete Shaders Folder**:
    - If the shaders folder has been found, click the "Delete" button.
    - The application will delete the shaders folder and display a confirmation message.
-     
-   #DOWNLOAD: https://nlink.at/Descargar_ClearShader_StarCitizen
-   
-     ATTENTION, the application is created with NET 9.0 from Microsoft and it is necessary to have NET 9.0 installed on your PC
 
-   NET 9.0 is a recent version of Microsoft's .NET development framework, released in February 2025. This framework is an open-source platform that allows you to develop applications for different operating systems such as Windows, macOS, and Linux. Some of the notable features of .NET 9.0 include:
-
-Performance improvements: Aspects such as garbage collection and code generation have been optimized for faster and more efficient applications.
-
-Support for cloud-native applications: .NET 9.0 is designed to make it easier to develop modern applications that take full advantage of cloud environments.
-
-New library features: For example, improvements in System.Text.Json to work with JSON and new functionalities in LINQ.
-
-Support for updated languages: Support for C# 13.0, F# 9.0, and Visual Basic 17.13.
-
-You can find more details about this version in the official documentation. Are you thinking of using it for a project? 😊
-                Download.NET 9.0: https://dotnet.microsoft.com/es-es/download/dotnet/9.0

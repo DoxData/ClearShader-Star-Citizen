@@ -22,10 +22,10 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 1. **Buscar Carpeta de Shaders**:
    - Introduce el nombre de usuario del PC en el campo de texto.
 
-   - Haz clic en el botÃ³n "Buscar".
+   - Haz clic en el botón "Buscar".
    - La aplicacion buscara¡ la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
    - Si se encuentra la carpeta, se mostrara¡ un mensaje indicando que los shaders han sido encontrados.
-   - Si no se encuentra la carpeta, se mostrarÃ¡ un mensaje de error.
+   - Si no se encuentra la carpeta, se mostrará¡ un mensaje de error.
 
 2. **Eliminar Carpeta de Shaders**:
    - Si la carpeta de shaders ha sido encontrada, haz clic en el botón "Eliminar".

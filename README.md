@@ -1,7 +1,7 @@
 
 # ClearShader Star Citizen
-![Captura de pantalla 2025-03-11 121731](https://github.com/user-attachments/assets/f8be77bf-a803-4d04-92c0-dd4bd5a8825c)      
-![Captura de pantalla 2025-03-11 121748](https://github.com/user-attachments/assets/848c7f55-9ed6-42a2-a2f9-5e8f00d5ee63)
+   ![Captura de pantalla 2025-03-11 121748](https://github.com/user-attachments/assets/848c7f55-9ed6-42a2-a2f9-5e8f00d5ee63) ![Captura de pantalla 2025-03-11 121731](https://github.com/user-attachments/assets/f8be77bf-a803-4d04-92c0-dd4bd5a8825c) 
+   
 
 
 ## Descripción

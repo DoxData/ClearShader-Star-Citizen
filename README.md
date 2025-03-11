@@ -1,7 +1,19 @@
 <<<<<<< HEAD
 # ClearShader Star Citizen
-![1](https://github.com/user-attachments/assets/fe97b44b-737a-4c81-be9d-7018af94ffd1)                   ![2](https://github.com/user-attachments/assets/b5f5e00a-7757-41e7-ae02-1d58859fa6bc)
 
+![Captura de pantalla 2025-03-11 121748](https://github.com/user-attachments/assets/1d8ef66c-9522-4eab-9822-649ae9a52968)  ![Captura de pantalla 2025-03-11 121731](https://github.com/user-attachments/assets/2adc8f74-1330-4e6f-bab8-32eb9cd168c5)
+
+## DescripciÃ³n en EspaÃ±ol
+
+ClearShader_SC es una aplicaciÃ³n WPF diseÃ±ada para gestionar y eliminar shaders de la carpeta de Star Citizen en tu PC. La aplicaciÃ³n permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC y proporciona una interfaz grÃ¡fica para eliminar dicha carpeta si es necesario.
+
+### CaracterÃ­sticas
+
+- **Buscar Carpeta de Shaders**: Permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC.
+- **Eliminar Carpeta de Shaders**: Proporciona un botÃ³n para eliminar la carpeta de shaders encontrada.
+- **Interfaz GrÃ¡fica**: Incluye una interfaz grÃ¡fica con botones redondeados y una barra de tÃ­tulo personalizada.
+=======
+# ClearShader_SC
 
 ## Descripción en Español
 
@@ -12,25 +24,22 @@ ClearShader_SC es una aplicación WPF diseñada para gestionar y eliminar shader
 - **Buscar Carpeta de Shaders**: Permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC.
 - **Eliminar Carpeta de Shaders**: Proporciona un botón para eliminar la carpeta de shaders encontrada.
 - **Interfaz Gráfica**: Incluye una interfaz gráfica con botones redondeados y una barra de título personalizada.
-=======
-# ClearShader_SC
-
-## Descripci�n en Espa�ol
-
-ClearShader_SC es una aplicaci�n WPF dise�ada para gestionar y eliminar shaders de la carpeta de Star Citizen en tu PC. La aplicaci�n permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC y proporciona una interfaz gr�fica para eliminar dicha carpeta si es necesario.
-
-### Caracter�sticas
-
-- **Buscar Carpeta de Shaders**: Permite buscar la carpeta de shaders de Star Citizen basada en el nombre de usuario del PC.
-- **Eliminar Carpeta de Shaders**: Proporciona un bot�n para eliminar la carpeta de shaders encontrada.
-- **Interfaz Gr�fica**: Incluye una interfaz gr�fica con botones redondeados y una barra de t�tulo personalizada.
->>>>>>> 63174eb (Proyecto ClearShader SC: primera versión)
+>>>>>>> 63174eb (Proyecto ClearShader SC: primera versiÃ³n)
 
 ### Instrucciones de Uso
 
 1. **Buscar Carpeta de Shaders**:
    - Introduce el nombre de usuario del PC en el campo de texto.
 <<<<<<< HEAD
+   - Haz clic en el botÃ³n "Buscar".
+   - La aplicaciÃ³n buscarÃ¡ la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
+   - Si se encuentra la carpeta, se mostrarÃ¡ un mensaje indicando que los shaders han sido encontrados.
+   - Si no se encuentra la carpeta, se mostrarÃ¡ un mensaje de error.
+
+2. **Eliminar Carpeta de Shaders**:
+   - Si la carpeta de shaders ha sido encontrada, haz clic en el botÃ³n "Eliminar".
+   - La aplicaciÃ³n eliminarÃ¡ la carpeta de shaders y mostrarÃ¡ un mensaje de confirmaciÃ³n.
+=======
    - Haz clic en el botón "Buscar".
    - La aplicación buscará la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
    - Si se encuentra la carpeta, se mostrará un mensaje indicando que los shaders han sido encontrados.
@@ -39,16 +48,7 @@ ClearShader_SC es una aplicaci�n WPF dise�ada para gestionar y eliminar shaders 
 2. **Eliminar Carpeta de Shaders**:
    - Si la carpeta de shaders ha sido encontrada, haz clic en el botón "Eliminar".
    - La aplicación eliminará la carpeta de shaders y mostrará un mensaje de confirmación.
-=======
-   - Haz clic en el bot�n "Buscar".
-   - La aplicaci�n buscar� la carpeta de shaders en `C:\Users\TU_USUARIO\AppData\Local\Star Citizen`.
-   - Si se encuentra la carpeta, se mostrar� un mensaje indicando que los shaders han sido encontrados.
-   - Si no se encuentra la carpeta, se mostrar� un mensaje de error.
-
-2. **Eliminar Carpeta de Shaders**:
-   - Si la carpeta de shaders ha sido encontrada, haz clic en el bot�n "Eliminar".
-   - La aplicaci�n eliminar� la carpeta de shaders y mostrar� un mensaje de confirmaci�n.
->>>>>>> 63174eb (Proyecto ClearShader SC: primera versión)
+>>>>>>> 63174eb (Proyecto ClearShader SC: primera versiÃ³n)
 
 ## Description in English
 
